@@ -38,3 +38,4 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+/.vs/DesktopCleaner/v15/Server/sqlite3
