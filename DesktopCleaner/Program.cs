@@ -7,20 +7,7 @@ namespace DesktopCleaner
     {
         public static void Main(string[] args)
         {
-            //Console.WriteLine($"Are you {Environment.UserName}?");
-            //var areUser = Console.ReadLine();
-            //if (areUser.ToLower() == "yes")
-            // {
             CleanDesktop();
-            //}
-            //else if(areUser.ToLower() == "no")
-            //{
-            //    Console.WriteLine("what is the user?");
-            //    var user = Console.ReadLine();
-            //    CleanDesktop(user);
-
-            //      }
-
         }
 
         private static void CleanDesktop()
