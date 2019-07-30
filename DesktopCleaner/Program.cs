@@ -3,7 +3,7 @@ using System.IO;
 
 namespace DesktopCleaner
 {
-    class MainClass
+    public static class MainClass
     {
         public static void Main(string[] args)
         {
