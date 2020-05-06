@@ -1,7 +1,13 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopCleaner", "DesktopCleaner\DesktopCleaner.csproj", "{1C87815E-AAE5-46AF-925A-2E5F88537735}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7588DF7C-7FE9-4243-BE1D-469980792498}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +19,11 @@ Global
 		{1C87815E-AAE5-46AF-925A-2E5F88537735}.Debug|x86.Build.0 = Debug|x86
 		{1C87815E-AAE5-46AF-925A-2E5F88537735}.Release|x86.ActiveCfg = Release|x86
 		{1C87815E-AAE5-46AF-925A-2E5F88537735}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999B58B4-B168-48B1-8793-B7772302B862}
 	EndGlobalSection
 EndGlobal
